@@ -1,0 +1,19 @@
+0.  BMP : 4 billion, GIF : 256, JPEG : 16 Million, PNG : 16 million
+1.  GIF
+2.  in lossy compression data can't be revovered when the file is uncompressed, in lossless compression it's the opposite;
+3.  JPEG
+4.  THe information gets erase, and the file remains
+5.  Using a deleting software ( for example : erase) and make it write over it many time ( 64 times for instance)
+6.  a header file, it declares integer types having a width
+7.  To sepecify the way to use data
+8.  BYTE:1byte, DWORD:4bytes, LONG:4bytes, WORD:2bytes
+9.  It has to be a word
+10. bfSize specifies the size of the bitmp file and bisiez specifies the size of the structure
+11. It means tht the bitmap is a top down DIB
+12. The number of bits in each pixel and the color in the bitmap
+13. If it can't open the file ( for example, if the file doesn't exist
+14. we have 1GRB
+15. 4
+16. Skipps padding and find pixels(next one)
+17. specifie the relativity to the position
+18. TODO
